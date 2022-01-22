@@ -326,6 +326,13 @@
   </url>
   
   <url>
+    <loc>https://baimohui.github.io/tags/%E7%9A%87%E5%AE%A4%E6%88%98%E4%BA%89/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baimohui.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
@@ -382,7 +389,21 @@
   </url>
   
   <url>
+    <loc>https://baimohui.github.io/tags/JavaScrip/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baimohui.github.io/tags/JavaScript/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baimohui.github.io/tags/RegExp/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -410,14 +431,14 @@
   </url>
   
   <url>
-    <loc>https://baimohui.github.io/tags/Linux/</loc>
+    <loc>https://baimohui.github.io/tags/Nginx/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://baimohui.github.io/tags/Nginx/</loc>
+    <loc>https://baimohui.github.io/tags/Linux/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -598,31 +619,17 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://baimohui.github.io/tags/JavaScrip/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baimohui.github.io/tags/%E7%9A%87%E5%AE%A4%E6%88%98%E4%BA%89/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baimohui.github.io/tags/RegExp/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://baimohui.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baimohui.github.io/categories/%E7%9A%87%E5%AE%A4%E6%88%98%E4%BA%89/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -664,13 +671,6 @@
   </url>
   
   <url>
-    <loc>https://baimohui.github.io/categories/Linux/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://baimohui.github.io/categories/Nginx/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
@@ -706,6 +706,13 @@
   </url>
   
   <url>
+    <loc>https://baimohui.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-01-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baimohui.github.io/categories/%E5%85%BC%E5%AE%B9%E9%80%82%E9%85%8D/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
@@ -713,14 +720,7 @@
   </url>
   
   <url>
-    <loc>https://baimohui.github.io/categories/%E7%9A%87%E5%AE%A4%E6%88%98%E4%BA%89/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baimohui.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://baimohui.github.io/categories/Linux/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
